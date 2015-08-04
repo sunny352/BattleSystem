@@ -1,0 +1,7 @@
+/Library
+/obj
+/Temp
+/*.sln
+/*.csproj
+/*.userprefs
+/*.suo
